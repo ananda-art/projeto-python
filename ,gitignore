@@ -11,5 +11,4 @@ env/
 .vscode/
 .idea/
 # Arquivos do sistema operacional
-.DS_Store
-Thumbs.db
+.DS_Stor
